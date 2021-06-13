@@ -1,6 +1,6 @@
 {
 
 "networking": {
-  "allowedIpRanges": ["20.44.194.145"]
+  "allowedIpRanges": ["20.44.194.142"]
 }
 }
